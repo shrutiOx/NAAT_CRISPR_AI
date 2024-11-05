@@ -1,1 +1,2 @@
 Chuai G, Ma H, Yan J et al (2018) DeepCRISPR: optimized CRISPR guide RNA design by deep learning. Genome Biol 19:80. https://doi.org/10.1186/s13059-018-1459-4
+Liu Q, He D, Xie L (2019) Prediction of off-target specificity and cell-specific fitness of CRISPR-Cas System using attention boosted deep learning and network-based gene feature. PLoS Comput Biol 15:e1007480. https://doi.org/10.1371/journal.pcbi.1007480
